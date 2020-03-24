@@ -1,2 +1,0 @@
-# vbeckley.github.io
-portfolio
