@@ -623,4 +623,7 @@ fieldset[disabled] .btn-success.active {
   font-size: 2em;
   overflow-wrap: break-word;
 }
+  img {
+        width: 95%;   /* Set image width to 95% for mobile screens */
+    }
 }
